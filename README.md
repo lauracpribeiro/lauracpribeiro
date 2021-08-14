@@ -1,6 +1,6 @@
 ## Hi There!! 👋 Laura here! 
 
-- 🔭 I’m currently working at @ambevtech
+- 🔭 I’m currently working at @ambevtech 🍻
 - 🌱 I’m currently learning Front-end
 - 📫 How to reach me: lauracpribeiro@gmail.com
 - 😄 Pronouns: she/her
