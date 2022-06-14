@@ -1,7 +1,7 @@
 ## Hi There!! 👋 Laura here! 
 
-- 🔭 I’m currently working at @ambevtech 🍻
-- 🌱 Learning Front-end
+- 🔭 I’m currently working at @BeesBank 🍻
+- 🌱 Software Engineer Front-End
 - 📫 How to reach me: lauracpribeiro@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: civil engineering starting a new career
