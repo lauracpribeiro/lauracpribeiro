@@ -1,6 +1,6 @@
 ## Hi There!! 👋 Laura here! 
 
-- 🔭 I’m currently working at @BeesBank 🍻
+- 🔭 I’m currently working at @Bees 🍻
 - 🌱 Software Engineer Front-End
 - 📫 How to reach me: lauracpribeiro@gmail.com
 - 😄 Pronouns: she/her
