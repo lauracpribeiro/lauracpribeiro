@@ -1,7 +1,7 @@
 ## Hi There!! 👋 Laura here! 
 
-- 🔭 I’m currently working at @Bees 🍻
-- 🌱 Software Engineer Front-End
+- 🔭 @AmbevTech -> @Bees -> Looking for a new Challenge 🍻
+- 🌱 Full Stack Developer
 - 📫 How to reach me: lauracpribeiro@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: civil engineering starting a new career
