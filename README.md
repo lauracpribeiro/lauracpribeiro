@@ -4,7 +4,7 @@
 - 🌱 Full Stack Developer
 - 📫 How to reach me: lauracpribeiro@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: civil engineering starting a new career
+- ⚡ Fun fact: civil engineering in a new career
 
 <div>
   <a href="https://github.com/lauracpribeiro">
