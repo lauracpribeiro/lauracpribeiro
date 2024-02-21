@@ -1,6 +1,6 @@
 ## Hi There!! 👋 Laura here! 
 
-- 🔭 @AmbevTech -> @Bees -> Looking for a new Challenge 🍻
+- 🔭 @AmbevTech -> @Bees -> @Trimble
 - 🌱 Full Stack Developer
 - 📫 How to reach me: lauracpribeiro@gmail.com
 - 😄 Pronouns: she/her
